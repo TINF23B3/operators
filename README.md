@@ -22,3 +22,4 @@ Peano Numbers are...
 
 Included languages:
 - Python
+- C++
